@@ -5,11 +5,11 @@ import java.util.Arrays;
 /**
  * Point d'entrée de l'application
  */
-public class App 
+public class App
 {
     /**
      * Processus principal de l'applcation
-     * @param args
+     * @param args La liste des arguments passés en ligne de commande
      */
     public static void main( String[] args )
     {
