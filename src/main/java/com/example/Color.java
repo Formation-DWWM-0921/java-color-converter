@@ -58,7 +58,7 @@ public class Color
         return String.format("rgb(%d, %d, %d)", this.red, this.green, this.blue);
     }
 
-        /**
+    /**
      * @return La valeur du canal rouge
      */
     public int getRed()
