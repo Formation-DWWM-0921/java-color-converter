@@ -35,8 +35,8 @@ Dans un fichier **Color.java**, écrire une classe **Color** qui réponde aux sp
 - Elle doit avoir trois propriétés représentant une valeur de rouge, une valeur de vert, et une valeur de bleu.
 - Elle peut être initialisée avec un constructeur qui prend comme paramètres trois valeurs de rouge, vert et bleu.
 - Elle peut être initialisée avec un constructeur qui prend comme paramètre un code couleur hexadécimal, et à partir duquel il remplit ses trois valeurs de rouge, vert, bleu.
-- Elle doit avoir une méthode qui affiche le code `rgb(X, X, X)` correspondant à ses valeurs.
-- Elle doit avoir une méthode qui affiche le code hexadécimal correspondant à ses valeurs.
+- Elle doit avoir une méthode qui renvoie le code `rgb(X, X, X)` correspondant à ses valeurs.
+- Elle doit avoir une méthode qui renvoie le code hexadécimal correspondant à ses valeurs.
 
 Utiliser cette classe de manière adéquate pour refactoriser le processus principal dans la class **App**.
 
